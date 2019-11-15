@@ -10,6 +10,7 @@
 ## Quick Links
 [Project Kanban Board](https://github.com/orgs/cunymap/projects)  
 [Live Site](https://venus.cs.qc.cuny.edu/~dmap/)  
+Venus Login: Check WhatsApp
 
 ## Documentation
 
@@ -19,4 +20,5 @@
 
 ## Milestones
 
-[Milestone 1 Presentation](Milestone1.pdf)
+[Milestone 1 Presentation](https://github.com/cunymap/qmap-documentation/tree/master/milestones/Milestone1.pdf)  
+[Milestone 1 Feedback](https://github.com/cunymap/qmap-documentation/tree/master/milestones/Milestone1-feedback.md)
